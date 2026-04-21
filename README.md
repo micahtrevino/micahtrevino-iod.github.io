@@ -1,2 +1,3 @@
 # micahtrevino-iod.github.io
-My portfoilo
+
+Aspiring software engineer
